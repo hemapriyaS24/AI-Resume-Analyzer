@@ -1,0 +1,260 @@
+{
+  "users": [],
+  "resumes": [
+    {
+      "_id": "raodeg327",
+      "createdAt": "2026-05-25T05:44:36.785Z",
+      "updatedAt": "2026-05-25T05:44:36.785Z",
+      "userId": null,
+      "originalName": "HP RESUME.docx",
+      "parsedText": "Hema Priya .S\n\nWeb Developer\n\nHemapriya2442007@gmail.com\n\n9843298159\n\n# 121 Arakkonam Road, Tiruttani-631209\n\n\n\nAbout :\n\n\n\nI am a motivated Information Technology student with a strong interest in web development and software technologies. I am currently learning front-end and back-end web development and have gained a solid foundation in basic Python programming. I enjoy building practical projects, learning new technologies, and continuously improving my technical and problem-solving skills to prepare for a successful career in the IT industry.\n\nEducation:\n\n\n\nI am currently pursuing a Bachelor of Technology (B.Tech) in Information Technology at Jeppiaar Institute of Technology. Through my academic coursework, I am gaining a strong foundation in core IT concepts, programming, and emerging technologies, along with hands-on experience in problem-solving and project-based learning.\n\nExperiences:\n\n\n\nI completed a one-month internship at (HVF) Heavy Vehicle Factory, Avadi, where I worked on projects including “HVF – Leave Portal”. During this training, I gained practical experience in PHP,HTML, CSS ,JS and learned the basics of MySQL and database management, along with exposure to real-world application development.\n\nPROJECTS:\n\n     \n\nPassword strength checker with using python source code\n\nHVF – Leave Portal\n\nTechnical skills:\n\n\n\nHTML\n\nCSS\n\nPYTHON\n\n",
+      "language": "English",
+      "atsScore": 44,
+      "analysis": {
+        "language": "English",
+        "atsScore": 44,
+        "links": {
+          "email": "Hemapriya2442007@gmail.com",
+          "phone": "9843298159",
+          "github": null,
+          "linkedin": null,
+          "portfolio": null
+        },
+        "linkTips": {
+          "linkedin": "LinkedIn profile missing. Action Tip: Linking a fully-optimized LinkedIn profile increases hiring rates by 71%.",
+          "github": "GitHub profile missing. Action Tip: Essential for Developers. Show off your clean coding habits and repository history.",
+          "portfolio": "Personal portfolio website missing. Action Tip: Having a personalized custom domain builds a highly premium personal brand."
+        },
+        "sections": {
+          "summary": false,
+          "experience": true,
+          "education": true,
+          "skills": true,
+          "projects": true
+        },
+        "grammarIssues": [
+          {
+            "type": "filler",
+            "message": "Avoid passive/filler words. Found: \"motivated\". Replace with active results-oriented text.",
+            "severity": "warning"
+          },
+          {
+            "type": "verbs",
+            "message": "Weak action verb presence. Try using stronger verbs such as: \"Spearheaded\", \"Optimized\", or \"Engineered\" to show active leadership.",
+            "severity": "critical"
+          },
+          {
+            "type": "quantitative",
+            "message": "Missing quantitative metrics. Resumes are 40% stronger when accomplishments are backed by numbers, percentages, or dollar amounts.",
+            "severity": "critical"
+          }
+        ],
+        "extractedSkills": [
+          "html",
+          "css",
+          "python",
+          "mysql"
+        ],
+        "careerRecommendations": [
+          {
+            "career": "Web Developer",
+            "matchPercentage": 25,
+            "matchedSkills": [
+              "html",
+              "css"
+            ],
+            "missingSkills": [
+              "react",
+              "javascript",
+              "node.js",
+              "node",
+              "express",
+              "mongodb"
+            ]
+          },
+          {
+            "career": "Data Analyst",
+            "matchPercentage": 25,
+            "matchedSkills": [
+              "python",
+              "mysql"
+            ],
+            "missingSkills": [
+              "sql",
+              "tableau",
+              "power bi",
+              "excel",
+              "pandas",
+              "numpy"
+            ]
+          },
+          {
+            "career": "UI/UX Designer",
+            "matchPercentage": 10,
+            "matchedSkills": [],
+            "missingSkills": [
+              "figma",
+              "adobe xd",
+              "sketch",
+              "user research",
+              "wireframing",
+              "prototyping"
+            ]
+          },
+          {
+            "career": "DevOps Engineer",
+            "matchPercentage": 10,
+            "matchedSkills": [],
+            "missingSkills": [
+              "docker",
+              "kubernetes",
+              "aws",
+              "jenkins",
+              "ci/cd",
+              "linux"
+            ]
+          },
+          {
+            "career": "Marketing Specialist",
+            "matchPercentage": 10,
+            "matchedSkills": [],
+            "missingSkills": [
+              "seo",
+              "sem",
+              "google analytics",
+              "copywriting",
+              "email marketing",
+              "social media"
+            ]
+          },
+          {
+            "career": "Project Manager",
+            "matchPercentage": 10,
+            "matchedSkills": [],
+            "missingSkills": [
+              "agile",
+              "scrum",
+              "kanban",
+              "jira",
+              "trello",
+              "budgeting"
+            ]
+          }
+        ],
+        "heatmapSegments": [
+          {
+            "id": "seg-0",
+            "text": "Hema Priya .S",
+            "score": "red",
+            "reason": "Content chunk is too brief. Expand this bullet point with clear action, impact, and results."
+          },
+          {
+            "id": "seg-1",
+            "text": "Web Developer",
+            "score": "red",
+            "reason": "Content chunk is too brief. Expand this bullet point with clear action, impact, and results."
+          },
+          {
+            "id": "seg-2",
+            "text": "Hemapriya2442007@gmail.com",
+            "score": "red",
+            "reason": "Content chunk is too brief. Expand this bullet point with clear action, impact, and results."
+          },
+          {
+            "id": "seg-3",
+            "text": "9843298159",
+            "score": "red",
+            "reason": "Content chunk is too brief. Expand this bullet point with clear action, impact, and results."
+          },
+          {
+            "id": "seg-4",
+            "text": "# 121 Arakkonam Road, Tiruttani-631209",
+            "score": "red",
+            "reason": "Content chunk is too brief. Expand this bullet point with clear action, impact, and results."
+          },
+          {
+            "id": "seg-5",
+            "text": "About :",
+            "score": "red",
+            "reason": "Content chunk is too brief. Expand this bullet point with clear action, impact, and results."
+          },
+          {
+            "id": "seg-6",
+            "text": "I am a motivated Information Technology student with a strong interest in web development and software technologies. I am currently learning front-end and back-end web development and have gained a solid foundation in basic Python programming. I enjoy building practical projects, learning new technologies, and continuously improving my technical and problem-solving skills to prepare for a successful career in the IT industry.",
+            "score": "red",
+            "reason": "Passive sentence structure. Lacks active action verbs and measurable outcomes."
+          },
+          {
+            "id": "seg-7",
+            "text": "Education:",
+            "score": "green",
+            "reason": "Perfect section layout title."
+          },
+          {
+            "id": "seg-8",
+            "text": "I am currently pursuing a Bachelor of Technology (B.Tech) in Information Technology at Jeppiaar Institute of Technology. Through my academic coursework, I am gaining a strong foundation in core IT concepts, programming, and emerging technologies, along with hands-on experience in problem-solving and project-based learning.",
+            "score": "red",
+            "reason": "Passive sentence structure. Lacks active action verbs and measurable outcomes."
+          },
+          {
+            "id": "seg-9",
+            "text": "Experiences:",
+            "score": "green",
+            "reason": "Perfect section layout title."
+          },
+          {
+            "id": "seg-10",
+            "text": "I completed a one-month internship at (HVF) Heavy Vehicle Factory, Avadi, where I worked on projects including “HVF – Leave Portal”. During this training, I gained practical experience in PHP,HTML, CSS ,JS and learned the basics of MySQL and database management, along with exposure to real-world application development.",
+            "score": "red",
+            "reason": "Passive sentence structure. Lacks active action verbs and measurable outcomes."
+          },
+          {
+            "id": "seg-11",
+            "text": "PROJECTS:",
+            "score": "green",
+            "reason": "Perfect section layout title."
+          },
+          {
+            "id": "seg-12",
+            "text": "Password strength checker with using python source code",
+            "score": "red",
+            "reason": "Passive sentence structure. Lacks active action verbs and measurable outcomes."
+          },
+          {
+            "id": "seg-13",
+            "text": "HVF – Leave Portal",
+            "score": "red",
+            "reason": "Content chunk is too brief. Expand this bullet point with clear action, impact, and results."
+          },
+          {
+            "id": "seg-14",
+            "text": "Technical skills:",
+            "score": "green",
+            "reason": "Perfect section layout title."
+          },
+          {
+            "id": "seg-15",
+            "text": "PYTHON",
+            "score": "red",
+            "reason": "Content chunk is too brief. Expand this bullet point with clear action, impact, and results."
+          }
+        ],
+        "ranking": {
+          "percentile": 0,
+          "rankText": "Needs Improvement",
+          "totalCompared": 17,
+          "betterThan": 0,
+          "careerAverage": 75
+        },
+        "career": "Web Developer"
+      },
+      "ranking": {
+        "percentile": 0,
+        "rankText": "Needs Improvement",
+        "totalCompared": 17,
+        "betterThan": 0,
+        "careerAverage": 75
+      }
+    }
+  ]
+}

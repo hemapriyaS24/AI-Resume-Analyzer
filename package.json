@@ -1,0 +1,14 @@
+{
+  "name": "ai-resume-analyzer-monorepo",
+  "version": "1.0.0",
+  "description": "Full Stack AI Resume Analyzer with advanced NLP capabilities",
+  "scripts": {
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "server": "cd backend && npm start",
+    "client": "cd frontend && npm run dev",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
